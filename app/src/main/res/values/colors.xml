@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="current_step_color">#219aff</color>
+    <color name="title_color">#80FFFFFF</color>
+    <array name="progressbarColor">
+        <item>#219aff</item>
+        <item>#4aadff</item>
+        <item>#75c0ff</item>
+        <item>#82c6ff</item>
+        <item>#f7a0ca</item>
+        <item>#fd6cb3</item>
+        <item>#ff5cac</item>
+        <item>#ff48a2</item>
+        <item>#ff2992</item>
+        <item>#ff007d</item>
+    </array>
+</resources>
